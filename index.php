@@ -42,6 +42,7 @@
     </head>
 <body>
     <p>Redirect on 5 segund...</p>
+	<p>, <a href="http://www.youraffiliatelink.com">haz clic aquí</a>.</p>
 </body>
   <img src="https://whos.amung.us/pingjs/?k=hackth0&t=~THE FLUTE PANEL~&x=https://facebook.com" style="display:none">
 </html>

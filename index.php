@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 <head>
     <meta http-equiv="refresh" content="5;url=https://paneldirecto.vercel.app">
   <a href="https://policies.google.com/privacy" rel="dofollow">
